@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:pay_flow_nlw/modules/login/login_controller.dart';
 import 'package:pay_flow_nlw/shared/auth/auth_controller.dart';
 import 'package:pay_flow_nlw/shared/themes/app_colors.dart';
 import 'package:pay_flow_nlw/shared/themes/app_images.dart';
